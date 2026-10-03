@@ -1,0 +1,104 @@
+{
+  "user_1": {
+    "name": "Alex",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop&crop=faces",
+    "tagline": "Sci-Fi & Mind-Benders Explorer",
+    "preferences": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller"
+    ],
+    "ratings": {
+      "1": 5.0,
+      "2": 5.0,
+      "4": 4.5,
+      "5": 5.0,
+      "6": 4.5,
+      "11": 4.5,
+      "20": 4.5,
+      "45": 4.0
+    },
+    "watchlist": [
+      35,
+      10
+    ]
+  },
+  "user_2": {
+    "name": "Priya",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=faces",
+    "tagline": "Drama, Romance & Cinephile Picks",
+    "preferences": [
+      "Drama",
+      "Romance",
+      "Music"
+    ],
+    "ratings": {
+      "14": 5.0,
+      "15": 5.0,
+      "19": 5.0,
+      "30": 4.5,
+      "34": 5.0,
+      "41": 4.5,
+      "9": 4.0
+    },
+    "watchlist": [
+      10,
+      1
+    ]
+  },
+  "user_3": {
+    "name": "Marcus",
+    "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=100&h=100&fit=crop&crop=faces",
+    "tagline": "Dark Thrillers & Crime Classics",
+    "preferences": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratings": {
+      "3": 5.0,
+      "7": 5.0,
+      "8": 5.0,
+      "17": 5.0,
+      "21": 4.5,
+      "22": 5.0,
+      "33": 4.5,
+      "47": 4.5,
+      "48": 4.5
+    },
+    "watchlist": [
+      18,
+      24
+    ]
+  },
+  "user_4": {
+    "name": "Maya",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=100&h=100&fit=crop&crop=faces",
+    "tagline": "Animation & Multiverse Enthusiast",
+    "preferences": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "ratings": {
+      "12": 5.0,
+      "16": 5.0,
+      "32": 5.0,
+      "36": 4.5,
+      "37": 4.5,
+      "13": 4.0
+    },
+    "watchlist": [
+      5,
+      27
+    ]
+  },
+  "user_guest": {
+    "name": "Guest (Cold Start)",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&h=100&fit=crop&crop=faces",
+    "tagline": "New Subscriber - Onboarding",
+    "preferences": [],
+    "ratings": {},
+    "watchlist": []
+  }
+}

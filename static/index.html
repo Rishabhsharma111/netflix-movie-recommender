@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Netflix AI | Next-Gen Movie Recommendation System</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Bebas+Neue&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <header class="navbar" id="navbar">
+    <div class="nav-left">
+      <div class="netflix-logo" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">NETFLIX</div>
+      <nav class="nav-links">
+        <a href="#top_picks" class="active">Home</a>
+        <a href="#full_movies" style="color: #46d369; font-weight: 700;">Full Movies (Free)</a>
+        <a href="#trending">Trending</a>
+        <a href="#scifi">Sci-Fi</a>
+        <a href="#action">Action</a>
+        <a href="#watchlist">My List</a>
+      </nav>
+    </div>
+
+    <div class="nav-right">
+      <!-- Search Input -->
+      <div class="search-container" id="searchContainer">
+        <button class="icon-btn search-toggle-btn" id="searchToggleBtn" title="Search movies">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+            <path d="M10 2a8 8 0 0 1 6.32 12.906l4.387 4.387a1 1 0 0 1-1.414 1.414l-4.387-4.387A8 8 0 1 1 10 2zm0 2a6 6 0 1 0 0 12 6 6 0 0 0 0-12z"/>
+          </svg>
+        </button>
+        <input type="text" id="searchInput" class="search-input" placeholder="Titles, actors, directors, genres...">
+        <button class="clear-search-btn" id="clearSearchBtn" style="display: none;">&times;</button>
+      </div>
+
+      <!-- Algorithm Tuning Button -->
+      <button class="algo-pill-btn" id="openAlgoDrawerBtn" title="Inspect & Tune Recommendation Weights">
+        <span class="pulse-dot"></span>
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+          <path d="M3 17v2h6v-2H3zM3 5v2h10V5H3zm10 16v-2h8v-2h-8v-2h-2v6h2zM7 9v2H3v2h4v2h2V9H7zm14 4v-2H11v2h10zm-6-4h2V7h4V5h-4V3h-2v6z"/>
+        </svg>
+        <span>AI Engine Tuning</span>
+      </button>
+
+      <!-- Profile Switcher Dropdown -->
+      <div class="profile-dropdown-wrapper" id="profileDropdownWrapper">
+        <button class="profile-btn" id="profileBtn">
+          <img src="" alt="Avatar" id="navAvatar" class="avatar-img">
+          <span id="navUserName" class="nav-user-name">Alex</span>
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+            <path d="M7 10l5 5 5-5z"/>
+          </svg>
+        </button>
+        <div class="profile-menu" id="profileMenu">
+          <div class="profile-menu-header">Who's watching?</div>
+          <div class="profile-list" id="profileList">
+            <!-- Injected via app.js -->
+          </div>
+          <div class="profile-menu-divider"></div>
+          <button class="profile-menu-action" id="resetProfileBtn">
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor">
+              <path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.77 20 14.44 20 13c0-4.42-3.58-8-8-8zm-6 8c0-1.01.25-1.97.7-2.8L5.24 8.74C4.46 10.23 4 11.56 4 13c0 4.42 3.58 8 8 8v4l5-5-5-5v4c-3.31 0-6-2.69-6-6z"/>
+            </svg>
+            Reset Profile Taste Profile
+          </button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Search Results Overlay (visible when searching) -->
+  <section class="search-overlay" id="searchOverlay" style="display: none;">
+    <div class="search-overlay-header">
+      <h2>Search Results for "<span id="searchQueryDisplay"></span>"</h2>
+      <button class="close-search-btn" id="closeSearchOverlay">&times; Close</button>
+    </div>
+    <div class="search-grid" id="searchGrid">
+      <!-- Search items rendered here -->
+    </div>
+  </section>
+
+  <!-- Main Feed Content -->
+  <main id="mainContent">
+    <!-- Hero Billboard Section -->
+    <section class="billboard" id="billboard">
+      <div class="billboard-backdrop" id="billboardBackdrop"></div>
+      <div class="billboard-vignette"></div>
+      <div class="billboard-content">
+        <div class="billboard-badge" id="billboardBadge">
+          <span class="match-score" id="billboardMatch">98% Match</span>
+          <span class="badge-tag" id="billboardReason">Personalized Top Pick</span>
+        </div>
+        <h1 class="billboard-title" id="billboardTitle">Interstellar</h1>
+        <p class="billboard-tagline" id="billboardTagline">Mankind was born on Earth. It was never meant to die here.</p>
+        <div class="billboard-meta">
+          <span class="year" id="billboardYear">2014</span>
+          <span class="age-rating" id="billboardAge">PG-13</span>
+          <span class="duration" id="billboardDuration">2h 49m</span>
+          <span class="rating-imdb" id="billboardImdb">★ 8.7</span>
+          <span class="genres" id="billboardGenres">Sci-Fi • Adventure • Drama</span>
+        </div>
+        <p class="billboard-overview" id="billboardOverview">
+          When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot is tasked to pilot a spacecraft to find a new home for mankind.
+        </p>
+        <div class="billboard-actions">
+          <button class="btn btn-primary" id="billboardPlayBtn">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor">
+              <path d="M8 5v14l11-7z"/>
+            </svg>
+            <span>Play</span>
+          </button>
+          <button class="btn btn-secondary" id="billboardWatchlistBtn">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor" id="billboardWatchlistIcon">
+              <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/>
+            </svg>
+            <span id="billboardWatchlistText">My List</span>
+          </button>
+          <button class="btn btn-secondary" id="billboardInfoBtn">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor">
+              <path d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
+            </svg>
+            <span>More Info</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Personalized Recommendation Rows Container -->
+    <section class="rows-container" id="rowsContainer">
+      <!-- Carousels dynamically injected via app.js -->
+    </section>
+  </main>
+
+  <!-- Movie Detail Modal -->
+  <div class="modal-overlay" id="movieModal" style="display: none;">
+    <div class="modal-card">
+      <button class="modal-close-btn" id="modalCloseBtn">&times;</button>
+      <div class="modal-hero">
+        <img src="" alt="Backdrop" id="modalBackdrop" class="modal-backdrop-img">
+        <div class="modal-hero-gradient"></div>
+        <div class="modal-hero-content">
+          <div class="modal-badges">
+            <span class="match-score" id="modalMatch">98% Match</span>
+            <span class="badge-tag" id="modalDirectorTag">Directed by Christopher Nolan</span>
+          </div>
+          <h2 class="modal-title" id="modalTitle">Interstellar</h2>
+          <div class="modal-actions-bar">
+            <button class="btn btn-primary" id="modalPlayBtn">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                <path d="M8 5v14l11-7z"/>
+              </svg>
+              <span>Play Trailer</span>
+            </button>
+            <button class="icon-circle-btn" id="modalWatchlistBtn" title="Add to My List">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" id="modalWatchlistIcon">
+                <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/>
+              </svg>
+            </button>
+            <div class="rating-stars-group" title="Rate this movie to fine-tune your recommendations">
+              <span class="star" data-rating="1">★</span>
+              <span class="star" data-rating="2">★</span>
+              <span class="star" data-rating="3">★</span>
+              <span class="star" data-rating="4">★</span>
+              <span class="star" data-rating="5">★</span>
+            </div>
+            <span class="user-rated-pill" id="modalUserRatingText">Not Rated</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal-body">
+        <div class="modal-grid">
+          <div class="modal-main-info">
+            <div class="meta-row">
+              <span class="rating-match-badge" id="modalBodyMatch">98% Match</span>
+              <span class="year" id="modalYear">2014</span>
+              <span class="age-rating" id="modalAge">PG-13</span>
+              <span class="duration" id="modalDuration">2h 49m</span>
+              <span class="hd-badge">HD</span>
+              <span class="sound-badge">5.1</span>
+            </div>
+            <p class="modal-overview" id="modalOverview"></p>
+            <p class="modal-tagline" id="modalTagline"></p>
+
+            <!-- Recommendation Explainability Box -->
+            <div class="explainability-box" id="modalExplainBox">
+              <div class="explain-title">
+                <svg viewBox="0 0 24 24" width="18" height="18" fill="#e50914">
+                  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17h-2v-2h2v2zm2.07-7.75l-.9.92C13.45 12.9 13 13.5 13 15h-2v-.5c0-1.1.45-2.1 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41 0-1.1-.9-2-2-2s-2 .9-2 2H7c0-2.76 2.24-5 5-5s5 2.24 5 5c0 1.04-.42 1.99-1.07 2.75z"/>
+                </svg>
+                <span>Why Netflix recommends this for <strong id="modalUserName">Alex</strong></span>
+              </div>
+              <p class="explain-primary-reason" id="modalPrimaryReason"></p>
+              <div class="algorithm-metrics-grid">
+                <div class="metric-item">
+                  <span class="metric-label">Collaborative Affinity (SVD)</span>
+                  <div class="metric-bar-bg">
+                    <div class="metric-bar-fill" id="modalBarCf" style="width: 85%;"></div>
+                  </div>
+                  <span class="metric-value" id="modalValCf">85%</span>
+                </div>
+                <div class="metric-item">
+                  <span class="metric-label">Content Similarity (TF-IDF)</span>
+                  <div class="metric-bar-bg">
+                    <div class="metric-bar-fill" id="modalBarContent" style="width: 92%;"></div>
+                  </div>
+                  <span class="metric-value" id="modalValContent">92%</span>
+                </div>
+                <div class="metric-item">
+                  <span class="metric-label">IMDb Bayesian Popularity</span>
+                  <div class="metric-bar-bg">
+                    <div class="metric-bar-fill" id="modalBarPop" style="width: 95%;"></div>
+                  </div>
+                  <span class="metric-value" id="modalValPop">95%</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="modal-sidebar-info">
+            <div class="info-group">
+              <span class="label">Director:</span>
+              <span class="val" id="modalDirector">Christopher Nolan</span>
+            </div>
+            <div class="info-group">
+              <span class="label">Cast:</span>
+              <span class="val" id="modalCast"></span>
+            </div>
+            <div class="info-group">
+              <span class="label">Genres:</span>
+              <span class="val" id="modalGenresList"></span>
+            </div>
+            <div class="info-group">
+              <span class="label">Keywords:</span>
+              <div class="keyword-tags" id="modalKeywords"></div>
+            </div>
+            <div class="info-group watch-providers-group" id="modalWatchProvidersGroup">
+              <span class="label">Stream Full Movie On:</span>
+              <div class="provider-buttons" id="modalProviderButtons"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- More Like This Grid inside Modal -->
+        <div class="more-like-this-section">
+          <h3>More Like This</h3>
+          <div class="more-grid" id="modalMoreGrid">
+            <!-- Similar items rendered here -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Cinematic Fullscreen Video Theater Player Modal -->
+  <div class="theater-overlay" id="theaterModal" style="display: none;">
+    <div class="theater-card">
+      <div class="theater-topbar">
+        <button class="theater-back-btn" id="theaterBackBtn">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+            <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+          </svg>
+          <span>Back to Browse</span>
+        </button>
+        <div class="theater-movie-info">
+          <span class="theater-title" id="theaterTitle">Interstellar</span>
+          <span class="theater-match" id="theaterMatch">98% Match</span>
+          <span class="theater-tag" id="theaterBadgeTag">Official HD Trailer</span>
+        </div>
+        <button class="theater-close-btn" id="theaterCloseBtn" title="Close Theater">&times;</button>
+      </div>
+
+      <div class="theater-video-wrapper">
+        <video 
+          id="theaterHtmlVideo" 
+          controls 
+          autoplay 
+          playsinline 
+          controlslist="nodownload" 
+          style="display: none; width: 100%; height: 100%; position: absolute; top:0; left:0; background: #000;">
+        </video>
+        <iframe 
+          id="theaterIframe" 
+          src="" 
+          title="Movie Player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+        </iframe>
+      </div>
+
+      <div class="theater-bottombar">
+        <div class="theater-meta-block">
+          <p id="theaterOverview" class="theater-overview"></p>
+          <div class="theater-credits">
+            <span id="theaterDirector"></span> • 
+            <span id="theaterCast"></span>
+          </div>
+        </div>
+        <div class="theater-actions">
+          <button class="btn btn-secondary" id="theaterWatchlistBtn">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" id="theaterWatchlistIcon">
+              <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/>
+            </svg>
+            <span id="theaterWatchlistText">My List</span>
+          </button>
+          <button class="btn btn-primary" id="theaterNextRecBtn">
+            <span>Next Recommended Film ▶</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Algorithm Tuning Drawer (Side Panel) -->
+  <aside class="algo-drawer" id="algoDrawer">
+    <div class="drawer-header">
+      <div class="drawer-title">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="#e50914">
+          <path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm1 15h-2v-6h2zm0-8h-2V7h2z"/>
+        </svg>
+        <h3>Netflix Recommender Lab</h3>
+      </div>
+      <button class="drawer-close-btn" id="closeAlgoDrawerBtn">&times;</button>
+    </div>
+
+    <div class="drawer-body">
+      <p class="drawer-desc">
+        Explore how Netflix balances <strong>Collaborative Filtering</strong> (user-item matrix factorization), 
+        <strong>Content-Based Similarity</strong> (TF-IDF metadata soup), and <strong>Bayesian Popularity</strong> in real-time.
+      </p>
+
+      <div class="algo-sliders">
+        <div class="slider-card">
+          <div class="slider-header">
+            <label for="sliderCf">Collaborative Filtering (SVD)</label>
+            <span class="slider-val" id="valCf">45%</span>
+          </div>
+          <input type="range" id="sliderCf" min="0" max="100" value="45" class="range-slider">
+          <p class="slider-help">Analyzes viewer rating co-occurrences using TruncatedSVD latent factor embeddings.</p>
+        </div>
+
+        <div class="slider-card">
+          <div class="slider-header">
+            <label for="sliderContent">Content-Based Filtering</label>
+            <span class="slider-val" id="valContent">40%</span>
+          </div>
+          <input type="range" id="sliderContent" min="0" max="100" value="40" class="range-slider">
+          <p class="slider-help">Matches movie metadata soup (directors, genres, actors, keywords) using TF-IDF cosine similarity.</p>
+        </div>
+
+        <div class="slider-card">
+          <div class="slider-header">
+            <label for="sliderPop">Bayesian Popularity Prior</label>
+            <span class="slider-val" id="valPop">15%</span>
+          </div>
+          <input type="range" id="sliderPop" min="0" max="100" value="15" class="range-slider">
+          <p class="slider-help">Applies IMDb Bayesian weighted rating formula: <code>(v/(v+m))*R + (m/(v+m))*C</code>.</p>
+        </div>
+      </div>
+
+      <div class="drawer-actions">
+        <button class="btn btn-primary" id="applyWeightsBtn" style="width: 100%;">
+          ⚡ Re-Rank Feed with Custom Weights
+        </button>
+        <button class="btn btn-secondary" id="resetWeightsBtn" style="width: 100%; margin-top: 8px;">
+          Reset to Netflix Defaults (45 / 40 / 15)
+        </button>
+      </div>
+
+      <div class="math-explainer-box">
+        <h4>Hybrid Mathematical Formula</h4>
+        <div class="formula-code">
+Score(u, i) = w_cf · SVD(u, i) + w_content · TFIDF(u, i) + w_pop · WR(i)
+        </div>
+        <p class="formula-caption">
+          Scores are scaled dynamically into Netflix's signature <code>60% - 99% Match</code> badge.
+        </p>
+      </div>
+    </div>
+  </aside>
+  <div class="drawer-backdrop" id="drawerBackdrop"></div>
+
+  <!-- Toast Notification Container -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

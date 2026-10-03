@@ -1,0 +1,2679 @@
+[
+  {
+    "id": 1,
+    "title": "Interstellar",
+    "year": 2014,
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "rating": 8.7,
+    "vote_count": 2100000,
+    "duration": "2h 49m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+    "overview": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+    "keywords": [
+      "space travel",
+      "black hole",
+      "wormhole",
+      "time dilation",
+      "father daughter",
+      "extinction",
+      "astronaut"
+    ],
+    "tagline": "Mankind was born on Earth. It was never meant to die here.",
+    "trailer_youtube_id": "zSWdZVtXT7E",
+    "trailer_url": "https://www.youtube.com/embed/zSWdZVtXT7E?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Interstellar"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Interstellar+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Interstellar"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Inception",
+    "year": 2010,
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "rating": 8.8,
+    "vote_count": 2500000,
+    "duration": "2h 28m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+    "overview": "Cobb, a skilled thief who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "keywords": [
+      "dreams",
+      "subconscious",
+      "heist",
+      "mind bending",
+      "totem",
+      "reality distortion",
+      "architecture"
+    ],
+    "tagline": "Your mind is the scene of the crime.",
+    "trailer_youtube_id": "YoHD9XEInc0",
+    "trailer_url": "https://www.youtube.com/embed/YoHD9XEInc0?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Inception"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Inception+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Inception"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine"
+    ],
+    "rating": 9.0,
+    "vote_count": 2900000,
+    "duration": "2h 32m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/hkBaDkMWbLaf8B1rsqPpCYPtmiP.jpg",
+    "overview": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "keywords": [
+      "batman",
+      "joker",
+      "gotham",
+      "vigilante",
+      "chaos",
+      "corruption",
+      "hero"
+    ],
+    "tagline": "Why so serious?",
+    "trailer_youtube_id": "EXeTwQWrcwY",
+    "trailer_url": "https://www.youtube.com/embed/EXeTwQWrcwY?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=The+Dark+Knight"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=The+Dark+Knight+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=The+Dark+Knight"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Drama"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Sylvia Hoeks"
+    ],
+    "rating": 8.0,
+    "vote_count": 650000,
+    "duration": "2h 44m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/sAtoMqDVhNDQBc3QJL3RF6hl7q5.jpg",
+    "overview": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+    "keywords": [
+      "cyberpunk",
+      "replicant",
+      "dystopia",
+      "artificial intelligence",
+      "existential",
+      "neo noir"
+    ],
+    "tagline": "The key to the future is finally unearthed.",
+    "trailer_youtube_id": "gCcx85zbxz4",
+    "trailer_url": "https://www.youtube.com/embed/gCcx85zbxz4?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Blade+Runner+2049"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Blade+Runner+2049+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Blade+Runner+2049"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Action"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "rating": 8.6,
+    "vote_count": 520000,
+    "duration": "2h 46m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/xOMo8BRK7PfcJv9JCnx7s520gEx.jpg",
+    "overview": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe.",
+    "keywords": [
+      "desert",
+      "sandworm",
+      "prophecy",
+      "empire",
+      "spice",
+      "revenge",
+      "messiah"
+    ],
+    "tagline": "Long live the fighters.",
+    "trailer_youtube_id": "Way9Dexny3w",
+    "trailer_url": "https://www.youtube.com/embed/Way9Dexny3w?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Dune:+Part+Two"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Dune:+Part+Two+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Dune:+Part+Two"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The Matrix",
+    "year": 1999,
+    "genres": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "rating": 8.7,
+    "vote_count": 2050000,
+    "duration": "2h 16m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/7u3FVc125q5a0qJm96bM68mH5sF.jpg",
+    "overview": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "keywords": [
+      "simulated reality",
+      "cyberpunk",
+      "hacker",
+      "chosen one",
+      "rebellion",
+      "ai"
+    ],
+    "tagline": "Welcome to the Real World.",
+    "trailer_youtube_id": "vKQi3bBA1y8",
+    "trailer_url": "https://www.youtube.com/embed/vKQi3bBA1y8?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=The+Matrix"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=The+Matrix+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=The+Matrix"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson",
+      "Bruce Willis"
+    ],
+    "rating": 8.9,
+    "vote_count": 2200000,
+    "duration": "2h 34m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "overview": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "keywords": [
+      "hitman",
+      "nonlinear",
+      "cult classic",
+      "dialogue",
+      "crime boss",
+      "briefcase"
+    ],
+    "tagline": "Just because you are a character doesn't mean that you have character.",
+    "trailer_youtube_id": "s7EdQ4FqbhY",
+    "trailer_url": "https://www.youtube.com/embed/s7EdQ4FqbhY?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Pulp+Fiction"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Pulp+Fiction+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Pulp+Fiction"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Fight Club",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "rating": 8.8,
+    "vote_count": 2300000,
+    "duration": "2h 19m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "overview": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "keywords": [
+      "insomnia",
+      "alter ego",
+      "anarchy",
+      "consumerism",
+      "underground",
+      "twist ending"
+    ],
+    "tagline": "Mischief. Mayhem. Soap.",
+    "trailer_youtube_id": "qtRKDV93vdE",
+    "trailer_url": "https://www.youtube.com/embed/qtRKDV93vdE?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Fight+Club"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Fight+Club+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Fight+Club"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Parasite",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "director": "Bong Joon Ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "rating": 8.5,
+    "vote_count": 920000,
+    "duration": "2h 12m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+    "overview": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "keywords": [
+      "class struggle",
+      "social satire",
+      "con artist",
+      "deception",
+      "basement",
+      "rainstorm"
+    ],
+    "tagline": "Act like you own the place.",
+    "trailer_youtube_id": "5xH0RZE728T",
+    "trailer_url": "https://www.youtube.com/embed/5xH0RZE728T?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Parasite"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Parasite+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Parasite"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr."
+    ],
+    "rating": 8.9,
+    "vote_count": 780000,
+    "duration": "3h 00m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
+    "overview": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb during World War II.",
+    "keywords": [
+      "atomic bomb",
+      "manhattan project",
+      "physics",
+      "quantum mechanics",
+      "cold war",
+      "guilt"
+    ],
+    "tagline": "The world forever changes.",
+    "trailer_youtube_id": "uYPbbksJxIg",
+    "trailer_url": "https://www.youtube.com/embed/uYPbbksJxIg?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Oppenheimer"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Oppenheimer+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Oppenheimer"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Arrival",
+    "year": 2016,
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Drama"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker",
+      "Michael Stuhlbarg"
+    ],
+    "rating": 7.9,
+    "vote_count": 750000,
+    "duration": "1h 56m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/hN2f2uWJk6K5v6vU8f6Q0rZfS4d.jpg",
+    "overview": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the globe.",
+    "keywords": [
+      "aliens",
+      "linguistics",
+      "first contact",
+      "non-linear time",
+      "communication",
+      "grief"
+    ],
+    "tagline": "Why are they here?",
+    "trailer_youtube_id": "tFMo3UJ4B4g",
+    "trailer_url": "https://www.youtube.com/embed/tFMo3UJ4B4g?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Arrival"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Arrival+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Arrival"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry",
+      "Oscar Isaac"
+    ],
+    "rating": 8.6,
+    "vote_count": 390000,
+    "duration": "2h 20m",
+    "age_rating": "PG",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "overview": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When heroes clash, Miles must redefine what it means to be a hero.",
+    "keywords": [
+      "multiverse",
+      "spider-man",
+      "alternate dimension",
+      "canon event",
+      "coming of age",
+      "comic book"
+    ],
+    "tagline": "It's how you wear the mask that matters.",
+    "trailer_youtube_id": "cqGjhVJWtEg",
+    "trailer_url": "https://www.youtube.com/embed/cqGjhVJWtEg?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Spider-Man:+Across+the+Spider-Verse"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Spider-Man:+Across+the+Spider-Verse+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Spider-Man:+Across+the+Spider-Verse"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Comedy",
+      "Action"
+    ],
+    "director": "Daniel Kwan, Daniel Scheinert",
+    "cast": [
+      "Michelle Yeoh",
+      "Ke Huy Quan",
+      "Stephanie Hsu",
+      "Jamie Lee Curtis"
+    ],
+    "rating": 7.8,
+    "vote_count": 520000,
+    "duration": "2h 19m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/w3LxiVYPqrlxqPYSENY0Xb2VVE9.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/70aUQ80w5LcrP5n2bXhT2U9M0L3.jpg",
+    "overview": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+    "keywords": [
+      "multiverse",
+      "absurdism",
+      "family trauma",
+      "existentialism",
+      "kung fu",
+      "googly eyes"
+    ],
+    "tagline": "The universe is so much bigger than you realize.",
+    "trailer_youtube_id": "wxN1T1uxQ2g",
+    "trailer_url": "https://www.youtube.com/embed/wxN1T1uxQ2g?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Everything+Everywhere+All+at+Once"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Everything+Everywhere+All+at+Once+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Everything+Everywhere+All+at+Once"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Whiplash",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "director": "Damien Chazelle",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist"
+    ],
+    "rating": 8.5,
+    "vote_count": 980000,
+    "duration": "1h 47m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/6bbZ6XUwvgfioC2hYf4qA9v49N0.jpg",
+    "overview": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "keywords": [
+      "jazz",
+      "perfectionism",
+      "drummer",
+      "obsession",
+      "mentor",
+      "rivalry"
+    ],
+    "tagline": "The road to greatness can take you to the edge.",
+    "trailer_youtube_id": "7d_jQycdQGo",
+    "trailer_url": "https://www.youtube.com/embed/7d_jQycdQGo?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Whiplash"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Whiplash+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Whiplash"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "La La Land",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "director": "Damien Chazelle",
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend",
+      "Rosemarie DeWitt"
+    ],
+    "rating": 8.0,
+    "vote_count": 640000,
+    "duration": "2h 08m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkVJt0Rf0.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/qJeU7909c0pS62699kF79412M1b.jpg",
+    "overview": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "keywords": [
+      "jazz",
+      "hollywood",
+      "dreams",
+      "heartbreak",
+      "musical",
+      "seasons"
+    ],
+    "tagline": "Here's to the fools who dream.",
+    "trailer_youtube_id": "0pdqf4P9MB8",
+    "trailer_url": "https://www.youtube.com/embed/0pdqf4P9MB8?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=La+La+Land"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=La+La+Land+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=La+La+Land"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Spirited Away",
+    "year": 2001,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Takashi Naito"
+    ],
+    "rating": 8.6,
+    "vote_count": 830000,
+    "duration": "2h 05m",
+    "age_rating": "PG",
+    "poster_url": "https://image.tmdb.org/t/p/w500/393r8p20gSeKpP91pY4fTqSg1Vw.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/bXNvzjULVp6e0oU3P78oUqTfXG9.jpg",
+    "overview": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, a world where humans are changed into beasts.",
+    "keywords": [
+      "spirit world",
+      "bathhouse",
+      "witch",
+      "studio ghibli",
+      "bravery",
+      "magic"
+    ],
+    "tagline": "Tunnel through into a wonderful world.",
+    "trailer_youtube_id": "ByXuk9QqQkk",
+    "trailer_url": "https://www.youtube.com/embed/ByXuk9QqQkk?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Spirited+Away"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Spirited+Away+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Spirited+Away"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Se7en",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Kevin Spacey",
+      "Gwyneth Paltrow"
+    ],
+    "rating": 8.6,
+    "vote_count": 1800000,
+    "duration": "2h 07m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6yoghtyTpznpBik8EngEmJskVUO.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/ba4Vu0m8vX7Hk9Xm2eY14gP8e8n.jpg",
+    "overview": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "keywords": [
+      "seven deadly sins",
+      "serial killer",
+      "detective",
+      "rainy city",
+      "box",
+      "macabre"
+    ],
+    "tagline": "Seven deadly sins. Seven ways to die.",
+    "trailer_youtube_id": "znmZoVkCjpI",
+    "trailer_url": "https://www.youtube.com/embed/znmZoVkCjpI?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Se7en"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Se7en+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Se7en"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Shutter Island",
+    "year": 2010,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley",
+      "Max von Sydow"
+    ],
+    "rating": 8.2,
+    "vote_count": 1450000,
+    "duration": "2h 18m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4GDy0PHYX3VRXUtwK5ysagvk2Te.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/y2n6B6V2KzVz4a33tG030K5R89m.jpg",
+    "overview": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+    "keywords": [
+      "asylum",
+      "paranoia",
+      "investigation",
+      "lighthouse",
+      "hallucinations",
+      "twist"
+    ],
+    "tagline": "Someone is missing.",
+    "trailer_youtube_id": "5iaYLCiq5RM",
+    "trailer_url": "https://www.youtube.com/embed/5iaYLCiq5RM?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Shutter+Island"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Shutter+Island+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Shutter+Island"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler"
+    ],
+    "rating": 9.3,
+    "vote_count": 2900000,
+    "duration": "2h 22m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+    "overview": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple acts of common decency.",
+    "keywords": [
+      "prison",
+      "escape",
+      "hope",
+      "friendship",
+      "wrongful conviction",
+      "redemption"
+    ],
+    "tagline": "Fear can hold you prisoner. Hope can set you free.",
+    "trailer_youtube_id": "PLl99DlL6b4",
+    "trailer_url": "https://www.youtube.com/embed/PLl99DlL6b4?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=The+Shawshank+Redemption"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=The+Shawshank+Redemption+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=The+Shawshank+Redemption"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "The Prestige",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson",
+      "Michael Caine"
+    ],
+    "rating": 8.5,
+    "vote_count": 1400000,
+    "duration": "2h 10m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tRNlZbgNCNOpLpb9K5PcrQ8Um8C.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/5ZSwf95P4G3B1B7bC7V5UvQ9U1P.jpg",
+    "overview": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "keywords": [
+      "magician",
+      "rivalry",
+      "teleportation",
+      "tesla",
+      "double",
+      "illusion"
+    ],
+    "tagline": "Are you watching closely?",
+    "trailer_youtube_id": "o4gHCmTQDVI",
+    "trailer_url": "https://www.youtube.com/embed/o4gHCmTQDVI?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=The+Prestige"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=The+Prestige+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=The+Prestige"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Goodfellas",
+    "year": 1990,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "rating": 8.7,
+    "vote_count": 1250000,
+    "duration": "2h 25m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kcu.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/sw7mordbZxgITU877yTpZCud90M.jpg",
+    "overview": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+    "keywords": [
+      "mafia",
+      "organized crime",
+      "gangster",
+      "betrayal",
+      "fbi",
+      "narrative voice"
+    ],
+    "tagline": "Three decades of life in the mafia.",
+    "trailer_youtube_id": "2ilzidi_J8Q",
+    "trailer_url": "https://www.youtube.com/embed/2ilzidi_J8Q?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Goodfellas"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Goodfellas+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Goodfellas"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "The Godfather",
+    "year": 1972,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Robert Duvall"
+    ],
+    "rating": 9.2,
+    "vote_count": 2000000,
+    "duration": "2h 55m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWF92PQOPG4G60RIk.jpg",
+    "overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "keywords": [
+      "don",
+      "corleone",
+      "mafia family",
+      "loyalty",
+      "sicily",
+      "power"
+    ],
+    "tagline": "An offer you can't refuse.",
+    "trailer_youtube_id": "UaVTIH8mujA",
+    "trailer_url": "https://www.youtube.com/embed/UaVTIH8mujA?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=The+Godfather"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=The+Godfather+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=The+Godfather"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "George Miller",
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne"
+    ],
+    "rating": 8.1,
+    "vote_count": 1100000,
+    "duration": "2h 00m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/nlCHUW2Y9XWbuR2nn7g0Bby6T4d.jpg",
+    "overview": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper and a drifter named Max.",
+    "keywords": [
+      "post apocalyptic",
+      "car chase",
+      "wasteland",
+      "furiosa",
+      "war rig",
+      "desert"
+    ],
+    "tagline": "What a Lovely Day.",
+    "trailer_youtube_id": "YWNPoceLSrA",
+    "trailer_url": "https://www.youtube.com/embed/YWNPoceLSrA?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Mad+Max:+Fury+Road"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Mad+Max:+Fury+Road+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Mad+Max:+Fury+Road"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Gone Girl",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris",
+      "Tyler Perry"
+    ],
+    "rating": 8.1,
+    "vote_count": 1050000,
+    "duration": "2h 29m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qymaJhucquUwjpb8RBPmCELzyMu.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/eefuH1n4wzFw48qZ9m0k7Q11K9B.jpg",
+    "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "keywords": [
+      "missing wife",
+      "psychological",
+      "cool girl",
+      "media frenzy",
+      "unreliable narrator"
+    ],
+    "tagline": "You don't know what you've got 'til it's...",
+    "trailer_youtube_id": "2-_-1nJf8Vg",
+    "trailer_url": "https://www.youtube.com/embed/2-_-1nJf8Vg?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Gone+Girl"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Gone+Girl+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Gone+Girl"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Alien",
+    "year": 1979,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt",
+      "Ian Holm"
+    ],
+    "rating": 8.5,
+    "vote_count": 950000,
+    "duration": "1h 57m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/AmR3JG1DYz54q7z8pB2e1vF4V6b.jpg",
+    "overview": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission on an uncharted planet.",
+    "keywords": [
+      "xenomorph",
+      "chestburster",
+      "spaceship",
+      "nostromo",
+      "survival horror",
+      "android"
+    ],
+    "tagline": "In space no one can hear you scream.",
+    "trailer_youtube_id": "LjLamj-b0I8",
+    "trailer_url": "https://www.youtube.com/embed/LjLamj-b0I8?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Alien"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Alien+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Alien"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Knives Out",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Rian Johnson",
+    "cast": [
+      "Daniel Craig",
+      "Chris Evans",
+      "Ana de Armas",
+      "Jamie Lee Curtis"
+    ],
+    "rating": 7.9,
+    "vote_count": 820000,
+    "duration": "2h 10m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/4HWAQu28LD2Ed03k59bUupWflL3.jpg",
+    "overview": "A detective investigates the death of the patriarch of an eccentric, combative family who died after his 85th birthday celebration.",
+    "keywords": [
+      "whodunnit",
+      "inheritance",
+      "eccentric detective",
+      "mansion",
+      "benoit blanc"
+    ],
+    "tagline": "Hell, any of them could have done it.",
+    "trailer_youtube_id": "qGqiHJTsRfs",
+    "trailer_url": "https://www.youtube.com/embed/qGqiHJTsRfs?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Knives+Out"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Knives+Out+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Knives+Out"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Wes Anderson",
+    "cast": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Mathieu Amalric",
+      "Adrien Brody"
+    ],
+    "rating": 8.1,
+    "vote_count": 890000,
+    "duration": "1h 39m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWX9ne3rNfg.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/7kzbZ1tU4G0B1g3J7K9t2d0m8N4.jpg",
+    "overview": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+    "keywords": [
+      "symmetry",
+      "concierge",
+      "heist",
+      "pastel",
+      "art theft",
+      "lobby boy"
+    ],
+    "tagline": "A lively caper from the singular vision of Wes Anderson.",
+    "trailer_youtube_id": "1Fg5iWmQjwk",
+    "trailer_url": "https://www.youtube.com/embed/1Fg5iWmQjwk?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=The+Grand+Budapest+Hotel"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=The+Grand+Budapest+Hotel+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=The+Grand+Budapest+Hotel"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Get Out",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Jordan Peele",
+    "cast": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford",
+      "Catherine Keener"
+    ],
+    "rating": 7.8,
+    "vote_count": 680000,
+    "duration": "1h 44m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/tChe6GnOPu5oR4uGgW64d5k37H8.jpg",
+    "overview": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+    "keywords": [
+      "sunken place",
+      "hypnosis",
+      "social horror",
+      "race",
+      "teacup",
+      "suburbia"
+    ],
+    "tagline": "Just because you're invited, doesn't mean you're welcome.",
+    "trailer_youtube_id": "DzfpyUB60YY",
+    "trailer_url": "https://www.youtube.com/embed/DzfpyUB60YY?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Get+Out"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Get+Out+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Get+Out"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "director": "Joseph Kosinski",
+    "cast": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly",
+      "Jon Hamm"
+    ],
+    "rating": 8.2,
+    "vote_count": 690000,
+    "duration": "2h 10m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+    "overview": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on an impossible mission.",
+    "keywords": [
+      "fighter jet",
+      "aviation",
+      "mentor",
+      "dogfight",
+      "danger zone",
+      "mach 10"
+    ],
+    "tagline": "Feel the need. The need for speed.",
+    "trailer_youtube_id": "giXco2JAZ_4",
+    "trailer_url": "https://www.youtube.com/embed/giXco2JAZ_4?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Top+Gun:+Maverick"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Top+Gun:+Maverick+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Top+Gun:+Maverick"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Her",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "director": "Spike Jonze",
+    "cast": [
+      "Joaquin Phoenix",
+      "Scarlett Johansson",
+      "Amy Adams",
+      "Rooney Mara"
+    ],
+    "rating": 8.0,
+    "vote_count": 680000,
+    "duration": "2h 06m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/4N6Vq7y8B9B9z4pW8x2U7F9o5L2.jpg",
+    "overview": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "keywords": [
+      "artificial intelligence",
+      "virtual assistant",
+      "loneliness",
+      "future romance",
+      "operating system"
+    ],
+    "tagline": "A Spike Jonze Love Story.",
+    "trailer_youtube_id": "ne6p6HdqqEI",
+    "trailer_url": "https://www.youtube.com/embed/ne6p6HdqqEI?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Her"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Her+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Her"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Gladiator",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed"
+    ],
+    "rating": 8.5,
+    "vote_count": 1600000,
+    "duration": "2h 35m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/bT3GW892r79H8sU4x1yB3a5m8L.jpg",
+    "overview": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "keywords": [
+      "colosseum",
+      "roman empire",
+      "vengeance",
+      "gladiator",
+      "sword and sandal"
+    ],
+    "tagline": "The general who became a slave. The slave who became a gladiator. The gladiator who defied an emperor.",
+    "trailer_youtube_id": "owK1qxDselE",
+    "trailer_url": "https://www.youtube.com/embed/owK1qxDselE?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Gladiator"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Gladiator+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Gladiator"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "rating": 8.4,
+    "vote_count": 670000,
+    "duration": "1h 57m",
+    "age_rating": "PG",
+    "poster_url": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/uUiId6jkF29wYgA0U1oJ3jP7b0a.jpg",
+    "overview": "Teen Miles Morales becomes the new Spider-Man and must join with five spider-powered individuals from other dimensions to stop a threat to all realities.",
+    "keywords": [
+      "multiverse",
+      "comic aesthetic",
+      "leap of faith",
+      "peter b parker",
+      "brooklyn"
+    ],
+    "tagline": "Anyone can wear the mask.",
+    "trailer_youtube_id": "tg52up16eq0",
+    "trailer_url": "https://www.youtube.com/embed/tg52up16eq0?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Spider-Man:+Into+the+Spider-Verse"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Spider-Man:+Into+the+Spider-Verse+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Spider-Man:+Into+the+Spider-Verse"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Zodiac",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Jake Gyllenhaal",
+      "Mark Ruffalo",
+      "Robert Downey Jr.",
+      "Anthony Edwards"
+    ],
+    "rating": 7.7,
+    "vote_count": 610000,
+    "duration": "2h 37m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6Yv5lBqWv3A0aA77rL8V3G7aZ1z.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/8B8i7v0p21m2u5y9k14v7s9y.jpg",
+    "overview": "Between 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.",
+    "keywords": [
+      "serial killer",
+      "cryptogram",
+      "san francisco",
+      "journalism",
+      "obsession",
+      "unsolved"
+    ],
+    "tagline": "There's more than one way to lose your life to a killer.",
+    "trailer_youtube_id": "yNncHPl1UXg",
+    "trailer_url": "https://www.youtube.com/embed/yNncHPl1UXg?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Zodiac"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Zodiac+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Zodiac"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "director": "Michel Gondry",
+    "cast": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Gerry Robert Byrne",
+      "Elijah Wood"
+    ],
+    "rating": 8.3,
+    "vote_count": 1100000,
+    "duration": "1h 48m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5q9IzL.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/vI0Fp8V98UuP8U24d3zL.jpg",
+    "overview": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "keywords": [
+      "memory erasure",
+      "montauk",
+      "heartbreak",
+      "subconscious",
+      "surrealism"
+    ],
+    "tagline": "You can erase someone from your mind. Getting them out of your heart is another story.",
+    "trailer_youtube_id": "07-QBnEkgXU",
+    "trailer_url": "https://www.youtube.com/embed/07-QBnEkgXU?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Eternal+Sunshine+of+the+Spotless+Mind"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Eternal+Sunshine+of+the+Spotless+Mind+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Eternal+Sunshine+of+the+Spotless+Mind"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Ex Machina",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Alex Garland",
+    "cast": [
+      "Domhnall Gleeson",
+      "Alicia Vikander",
+      "Oscar Isaac",
+      "Sonoya Mizuno"
+    ],
+    "rating": 7.7,
+    "vote_count": 580000,
+    "duration": "1h 48m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/961s0eHwKszZc296J2hZ8nBwGf3.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/4F12L0q4x13uM3479x.jpg",
+    "overview": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.",
+    "keywords": [
+      "turing test",
+      "artificial intelligence",
+      "android",
+      "isolation",
+      "manipulation"
+    ],
+    "tagline": "There is nothing more human than the will to survive.",
+    "trailer_youtube_id": "EoQuVnKhxaM",
+    "trailer_url": "https://www.youtube.com/embed/EoQuVnKhxaM?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Ex+Machina"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Ex+Machina+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Ex+Machina"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Coco",
+    "year": 2017,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Lee Unkrich, Adrian Molina",
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "rating": 8.4,
+    "vote_count": 590000,
+    "duration": "1h 45m",
+    "age_rating": "PG",
+    "poster_url": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/askg3SMvhqEl4OL52YuvdtQw40Y.jpg",
+    "overview": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "keywords": [
+      "day of the dead",
+      "mexico",
+      "family heritage",
+      "guitar",
+      "ancestors",
+      "remember me"
+    ],
+    "tagline": "The celebration of a lifetime.",
+    "trailer_youtube_id": "xlnPHQ3TLX8",
+    "trailer_url": "https://www.youtube.com/embed/xlnPHQ3TLX8?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Coco"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Coco+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Coco"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "WALL·E",
+    "year": 2008,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Sci-Fi"
+    ],
+    "director": "Andrew Stanton",
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin",
+      "Fred Willard"
+    ],
+    "rating": 8.4,
+    "vote_count": 1200000,
+    "duration": "1h 38m",
+    "age_rating": "G",
+    "poster_url": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/vL5LR6WdxWPqqFnp02Igvuqzbg1.jpg",
+    "overview": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "keywords": [
+      "waste robot",
+      "dystopian earth",
+      "spaceship axiom",
+      "plant life",
+      "silent romance",
+      "future humanity"
+    ],
+    "tagline": "After 700 years of doing what he was built for, he'll find what he's meant for.",
+    "trailer_youtube_id": "alIq_wG9FNk",
+    "trailer_url": "https://www.youtube.com/embed/alIq_wG9FNk?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=WALL·E"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=WALL·E+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=WALL·E"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Anthony Russo, Joe Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans"
+    ],
+    "rating": 8.4,
+    "vote_count": 1600000,
+    "duration": "2h 29m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+    "overview": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "keywords": [
+      "infinity stones",
+      "thanos",
+      "snap",
+      "superhero ensemble",
+      "marvel",
+      "galactic battle"
+    ],
+    "tagline": "An entire universe. Once and for all.",
+    "trailer_youtube_id": "6ZfuNTqbHE8",
+    "trailer_url": "https://www.youtube.com/embed/6ZfuNTqbHE8?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Avengers:+Infinity+War"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Avengers:+Infinity+War+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Avengers:+Infinity+War"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "John Wick",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Chad Stahelski",
+    "cast": [
+      "Keanu Reeves",
+      "Michael Nyqvist",
+      "Alfie Allen",
+      "Willem Dafoe"
+    ],
+    "rating": 7.4,
+    "vote_count": 780000,
+    "duration": "1h 41m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/umC04Cozevu8nn3JTDJ1pc7PVTn.jpg",
+    "overview": "An ex-hit-man comes out of retirement to track down the gangsters that took everything from him after a chance meeting turns deadly.",
+    "keywords": [
+      "assassin",
+      "dog",
+      "revenge",
+      "continental hotel",
+      "gun fu",
+      "underworld"
+    ],
+    "tagline": "Don't set him off.",
+    "trailer_youtube_id": "2AUmvWm5ZDQ",
+    "trailer_url": "https://www.youtube.com/embed/2AUmvWm5ZDQ?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=John+Wick"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=John+Wick+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=John+Wick"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Prisoners",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis",
+      "Paul Dano"
+    ],
+    "rating": 8.1,
+    "vote_count": 820000,
+    "duration": "2h 33m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tuZhZ6W9vyc0fD8mC9g1i4hP3hM.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/cUPnQv8hS96X97YxH834c89Xh8T.jpg",
+    "overview": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+    "keywords": [
+      "abduction",
+      "vigilante father",
+      "detective loki",
+      "rain",
+      "maze",
+      "moral ambiguity"
+    ],
+    "tagline": "How far would you go to protect your family?",
+    "trailer_youtube_id": "bpXfcTF6iVk",
+    "trailer_url": "https://www.youtube.com/embed/bpXfcTF6iVk?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Prisoners"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Prisoners+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Prisoners"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Past Lives",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Celine Song",
+    "cast": [
+      "Greta Lee",
+      "Teo Yoo",
+      "John Magaro",
+      "Moon Seung-ah"
+    ],
+    "rating": 7.9,
+    "vote_count": 160000,
+    "duration": "1h 45m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/yfv3L8PcrqI370uGfA1T9B1p5B3.jpg",
+    "overview": "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Decades later, they are reunited for one fateful week.",
+    "keywords": [
+      "inyeon",
+      "childhood sweethearts",
+      "destiny",
+      "new york",
+      "immigrant",
+      "what ifs"
+    ],
+    "tagline": "In-Yun. What if?",
+    "trailer_youtube_id": "kA244xewjcI",
+    "trailer_url": "https://www.youtube.com/embed/kA244xewjcI?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Past+Lives"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Past+Lives+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Past+Lives"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "The Thing",
+    "year": 1982,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "director": "John Carpenter",
+    "cast": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David",
+      "Donald Moffat"
+    ],
+    "rating": 8.2,
+    "vote_count": 480000,
+    "duration": "1h 49m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tzGY490iPtki9UMm9kTk8r8x0Ka.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/l5K9024ISvIocj0j0k5G6F0o1M.jpg",
+    "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "keywords": [
+      "shape shifter",
+      "antarctica",
+      "paranoia",
+      "isolation",
+      "practical effects",
+      "cold"
+    ],
+    "tagline": "Man is The Warmest Place to Hide.",
+    "trailer_youtube_id": "5ftmr17M-a4",
+    "trailer_url": "https://www.youtube.com/embed/5ftmr17M-a4?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=The+Thing"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=The+Thing+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=The+Thing"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Hereditary",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "director": "Ari Aster",
+    "cast": [
+      "Toni Collette",
+      "Alex Wolff",
+      "Milly Shapiro",
+      "Gabriel Byrne"
+    ],
+    "rating": 7.3,
+    "vote_count": 410000,
+    "duration": "2h 07m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/p9fmuz2Oj3vxEJ52IuVnC42W0bM.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/5yLh6P7F3cR1y1v9pQfF1p8f3.jpg",
+    "overview": "A grieving family is haunted by tragic and disturbing occurrences after the death of their secretive grandmother.",
+    "keywords": [
+      "cult",
+      "family trauma",
+      "grief",
+      "miniatures",
+      "possession",
+      "paimon"
+    ],
+    "tagline": "Every family tree hides a secret.",
+    "trailer_youtube_id": "V6wWKNij_1M",
+    "trailer_url": "https://www.youtube.com/embed/V6wWKNij_1M?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Hereditary"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Hereditary+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Hereditary"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "A Quiet Place",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "director": "John Krasinski",
+    "cast": [
+      "Emily Blunt",
+      "John Krasinski",
+      "Millicent Simmonds",
+      "Noah Jupe"
+    ],
+    "rating": 7.5,
+    "vote_count": 620000,
+    "duration": "1h 30m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/roYyPiQDrtQIrlNZ9nnCgJ5rD6p.jpg",
+    "overview": "A family struggles for survival in a world where most humans have been killed by blind but noise-sensitive creatures. They are forced to communicate only through sign language to stay alive.",
+    "keywords": [
+      "silence",
+      "creatures",
+      "sound",
+      "survival",
+      "sign language",
+      "family bond"
+    ],
+    "tagline": "If they hear you, they hunt you.",
+    "trailer_youtube_id": "WR7cc5t7tv8",
+    "trailer_url": "https://www.youtube.com/embed/WR7cc5t7tv8?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=A+Quiet+Place"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=A+Quiet+Place+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=A+Quiet+Place"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Tenet",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "John David Washington",
+      "Robert Pattinson",
+      "Elizabeth Debicki",
+      "Kenneth Branagh"
+    ],
+    "rating": 7.3,
+    "vote_count": 610000,
+    "duration": "2h 30m",
+    "age_rating": "PG-13",
+    "poster_url": "https://image.tmdb.org/t/p/w500/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/wzJRB4MKi3yK138RI5Q0kwhg7C0.jpg",
+    "overview": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "keywords": [
+      "inversion",
+      "time reversal",
+      "entropy",
+      "espionage",
+      "temporal pincer",
+      "algorithm"
+    ],
+    "tagline": "Time runs out.",
+    "trailer_youtube_id": "LdOM0x0WVSc",
+    "trailer_url": "https://www.youtube.com/embed/LdOM0x0WVSc?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Tenet"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Tenet+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Tenet"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Memento",
+    "year": 2000,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano",
+      "Mark Boone Junior"
+    ],
+    "rating": 8.4,
+    "vote_count": 1350000,
+    "duration": "1h 53m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yuNs09hvpHVU1cBTCAk9zxsL2oW.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/7eT0bKqB8i0O5eFz3N7v2N5jZ.jpg",
+    "overview": "A man with short-term memory loss attempts to track down his wife's murderer through polaroids and tattoos.",
+    "keywords": [
+      "anterograde amnesia",
+      "polaroid",
+      "tattoos",
+      "reverse chronological",
+      "deception"
+    ],
+    "tagline": "Some memories are best forgotten.",
+    "trailer_youtube_id": "0vS0E9bBSL0",
+    "trailer_url": "https://www.youtube.com/embed/0vS0E9bBSL0?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=Memento"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=Memento+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=Memento"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Jonathan Demme",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn",
+      "Ted Levine"
+    ],
+    "rating": 8.6,
+    "vote_count": 1600000,
+    "duration": "1h 58m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8rKTaPu.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/mfwq2nMBzArzQ7Y9R5R0eT8yV3d.jpg",
+    "overview": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "keywords": [
+      "hannibal lecter",
+      "fbi",
+      "clarice starling",
+      "buffalo bill",
+      "moths",
+      "psychological mind games"
+    ],
+    "tagline": "To enter the mind of a killer she must challenge the mind of a madman.",
+    "trailer_youtube_id": "W6Mm8Sbe__o",
+    "trailer_url": "https://www.youtube.com/embed/W6Mm8Sbe__o?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=The+Silence+of+the+Lambs"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=The+Silence+of+the+Lambs+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=The+Silence+of+the+Lambs"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "The Departed",
+    "year": 2006,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson",
+      "Mark Wahlberg"
+    ],
+    "rating": 8.5,
+    "vote_count": 1450000,
+    "duration": "2h 31m",
+    "age_rating": "R",
+    "poster_url": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w1280/c8ZgUvXoUvW6r2k9rP0p1c5nK9p.jpg",
+    "overview": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "keywords": [
+      "undercover cop",
+      "boston mafia",
+      "mole",
+      "double agent",
+      "irish mob",
+      "paranoia"
+    ],
+    "tagline": "Lies. Betrayal. Sacrifice. How far will you take it?",
+    "trailer_youtube_id": "iojhqm0JTW4",
+    "trailer_url": "https://www.youtube.com/embed/iojhqm0JTW4?autoplay=1&rel=0&modestbranding=1&enablejsapi=1",
+    "watch_providers": [
+      {
+        "name": "Netflix",
+        "icon": "🔴",
+        "url": "https://www.netflix.com/search?q=The+Departed"
+      },
+      {
+        "name": "Prime Video",
+        "icon": "🔵",
+        "url": "https://www.amazon.com/s?k=The+Departed+movie"
+      },
+      {
+        "name": "Apple TV",
+        "icon": "⚪",
+        "url": "https://tv.apple.com/search?term=The+Departed"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Tears of Steel",
+    "year": 2012,
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Short"
+    ],
+    "director": "Ian Hubert",
+    "cast": [
+      "Derek de Lint",
+      "Sergio Hasselbaink",
+      "Rogier Schippers",
+      "Vanja Rukavina"
+    ],
+    "rating": 7.5,
+    "vote_count": 85000,
+    "duration": "12m 14s",
+    "age_rating": "PG-13",
+    "poster_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500&h=750&fit=crop",
+    "backdrop_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1280&h=720&fit=crop",
+    "overview": "In a dystopian future, a group of warriors and scientists gather at the Oude Kerk in Amsterdam to stage a desperate attempt to rescue the world from destructive robotic cyborgs. Complete full-length film available to stream in 4K.",
+    "keywords": [
+      "cyborgs",
+      "amsterdam",
+      "dystopian",
+      "robotics",
+      "open source cinema",
+      "vfx"
+    ],
+    "tagline": "Explore the future of visual cinema.",
+    "is_full_movie": true,
+    "stream_type": "mp4",
+    "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "trailer_youtube_id": "R6MlUcmOul8",
+    "trailer_url": "https://www.youtube.com/embed/R6MlUcmOul8?autoplay=1&rel=0"
+  },
+  {
+    "id": 102,
+    "title": "Sintel",
+    "year": 2010,
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Colin Levy",
+    "cast": [
+      "Halina Reijn",
+      "Thom Hoffman"
+    ],
+    "rating": 7.6,
+    "vote_count": 92000,
+    "duration": "15m 00s",
+    "age_rating": "PG",
+    "poster_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500&h=750&fit=crop",
+    "backdrop_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1280&h=720&fit=crop",
+    "overview": "A lonely young woman, Sintel, helps and befriends a wounded baby dragon whom she names Scales. When the dragon is kidnapped by an adult beast, she embarks on an emotional quest across the world.",
+    "keywords": [
+      "dragon",
+      "quest",
+      "emotional",
+      "fantasy",
+      "winter",
+      "cgi"
+    ],
+    "tagline": "Her quest for what was lost.",
+    "is_full_movie": true,
+    "stream_type": "mp4",
+    "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "trailer_youtube_id": "eRsGyueVLvQ",
+    "trailer_url": "https://www.youtube.com/embed/eRsGyueVLvQ?autoplay=1&rel=0"
+  },
+  {
+    "id": 103,
+    "title": "Big Buck Bunny",
+    "year": 2008,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Sacha Goedegebure",
+    "cast": [
+      "Jan Morgenstern"
+    ],
+    "rating": 7.7,
+    "vote_count": 110000,
+    "duration": "10m 00s",
+    "age_rating": "G",
+    "poster_url": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=500&h=750&fit=crop",
+    "backdrop_url": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=1280&h=720&fit=crop",
+    "overview": "A large and lovable rabbit deals with bullying forest creatures in a hilarious and heartwarming woodland adventure.",
+    "keywords": [
+      "bunny",
+      "forest",
+      "revenge",
+      "slapstick comedy",
+      "cartoon"
+    ],
+    "tagline": "Big, buck, and ready for payback.",
+    "is_full_movie": true,
+    "stream_type": "mp4",
+    "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "trailer_youtube_id": "YE7VzlLtp-4",
+    "trailer_url": "https://www.youtube.com/embed/YE7VzlLtp-4?autoplay=1&rel=0"
+  },
+  {
+    "id": 104,
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Classic"
+    ],
+    "director": "George A. Romero",
+    "cast": [
+      "Duane Jones",
+      "Judith O'Dea",
+      "Karl Hardman",
+      "Marilyn Eastman"
+    ],
+    "rating": 7.9,
+    "vote_count": 140000,
+    "duration": "1h 36m",
+    "age_rating": "R",
+    "poster_url": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=500&h=750&fit=crop",
+    "backdrop_url": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1280&h=720&fit=crop",
+    "overview": "A ragtag group of survivors barricade themselves in an old farmhouse to remain safe from a bloodthirsty, flesh-eating breed of monsters. Complete 96-minute feature film.",
+    "keywords": [
+      "zombies",
+      "farmhouse",
+      "black and white",
+      "cult classic",
+      "survival"
+    ],
+    "tagline": "They keep coming back in a bloodthirsty lust for HUMAN FLESH!",
+    "is_full_movie": true,
+    "stream_type": "youtube",
+    "stream_url": "https://www.youtube.com/embed/_EIU_Tu67p4?autoplay=1&rel=0",
+    "trailer_youtube_id": "_EIU_Tu67p4",
+    "trailer_url": "https://www.youtube.com/embed/_EIU_Tu67p4?autoplay=1&rel=0"
+  },
+  {
+    "id": 105,
+    "title": "Charade",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "director": "Stanley Donen",
+    "cast": [
+      "Cary Grant",
+      "Audrey Hepburn",
+      "Walter Matthau",
+      "James Coburn"
+    ],
+    "rating": 7.9,
+    "vote_count": 98000,
+    "duration": "1h 53m",
+    "age_rating": "Approved",
+    "poster_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=500&h=750&fit=crop",
+    "backdrop_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1280&h=720&fit=crop",
+    "overview": "Romance and suspense in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Complete 113-minute classic feature film starring Audrey Hepburn and Cary Grant.",
+    "keywords": [
+      "paris",
+      "audrey hepburn",
+      "cary grant",
+      "whodunnit",
+      "stolen fortune",
+      "romantic thriller"
+    ],
+    "tagline": "You can expect the unexpected when Audrey Hepburn and Cary Grant meet in Charade.",
+    "is_full_movie": true,
+    "stream_type": "youtube",
+    "stream_url": "https://www.youtube.com/embed/-z87u6c547I?autoplay=1&rel=0",
+    "trailer_youtube_id": "-z87u6c547I",
+    "trailer_url": "https://www.youtube.com/embed/-z87u6c547I?autoplay=1&rel=0"
+  }
+]
