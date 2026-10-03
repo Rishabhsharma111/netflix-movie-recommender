@@ -6,6 +6,13 @@ The recommendation engine combines **Collaborative Filtering**, **Content-Based 
 
 > **Note:** This is an educational/portfolio project inspired by the Netflix-style recommendation experience. It is not affiliated with Netflix.
 
+## 🚀 Live Demo
+
+**[Open the Live Website](https://netflix-movie-recommender-jfxr.onrender.com)**
+
+**[View Source Code on GitHub](https://github.com/Rishabhsharma111/netflix-movie-recommender)**
+
+
 ## ✨ Features
 
 - 🎯 Personalized movie recommendations
